@@ -6,21 +6,21 @@
             "bin": [
                 "terrable.exe"
             ],
-            "hash": "8cffbb56770718ffd18cfe668de343ef67025f2bd666ef3abe316a70ccb57538"
+            "hash": "980817f1ffbbeeb56c8011cc2be3556b0baa539865ccdf931275ce9a6a9a670c"
         },
         "64bit": {
             "url": "https://github.com/terrable-dev/terrable/releases/tag/v0.1.0/terrable_Windows_x86_64.zip",
             "bin": [
                 "terrable.exe"
             ],
-            "hash": "561df5e4bffd30b41b4e5aba3bdd03b7f2f189c868dcf0359f9a1d4b36739586"
+            "hash": "fef14327e1f3c9ce65f5ed6aca5707e1bf23a4a7f3c45768bfa0b5892772389e"
         },
         "arm64": {
             "url": "https://github.com/terrable-dev/terrable/releases/tag/v0.1.0/terrable_Windows_arm64.zip",
             "bin": [
                 "terrable.exe"
             ],
-            "hash": "91da8eb6140b74024b0d97c2f14e690f7355e740e32a5793ba53a191ed6193b3"
+            "hash": "328f1f7251ac7e3269794a89a3b972e8e5b78715995a44ba2ecfa03a7143fdad"
         }
     },
     "license": "Unlicense"
