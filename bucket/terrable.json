@@ -1,26 +1,26 @@
 {
-    "version": "0.8.0",
+    "version": "0.9.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/terrable-dev/terrable/releases/download/v0.8.0/terrable_Windows_i386.zip",
+            "url": "https://github.com/terrable-dev/terrable/releases/download/v0.9.0/terrable_Windows_i386.zip",
             "bin": [
                 "terrable.exe"
             ],
-            "hash": "a8042741844ef38d5dadf310b262dd1e52e10d08473354e17b56268b13cb52c4"
+            "hash": "bbee9338911a590f63b62e95d22128392bf4c18205b2c8e5a9b75c93e2db77ce"
         },
         "64bit": {
-            "url": "https://github.com/terrable-dev/terrable/releases/download/v0.8.0/terrable_Windows_x86_64.zip",
+            "url": "https://github.com/terrable-dev/terrable/releases/download/v0.9.0/terrable_Windows_x86_64.zip",
             "bin": [
                 "terrable.exe"
             ],
-            "hash": "e12238f5a1de037fc3e8658228d718940cafd7b773c7eeb19aaebaed258c75c1"
+            "hash": "ef02dcb7596539bc6232e493f8b94fab0c0990d33c8e2e204cb106dacf0fb75a"
         },
         "arm64": {
-            "url": "https://github.com/terrable-dev/terrable/releases/download/v0.8.0/terrable_Windows_arm64.zip",
+            "url": "https://github.com/terrable-dev/terrable/releases/download/v0.9.0/terrable_Windows_arm64.zip",
             "bin": [
                 "terrable.exe"
             ],
-            "hash": "cc5d5d4c9d46bbfcffa59adbd02c03a6679aec5353eb5e3a2bf5947dd783ac64"
+            "hash": "c4dea057b5f2af1ea8f76007af05fc8b49b9bb3e769aa42670071d5893eec432"
         }
     }
 }
